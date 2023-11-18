@@ -1,0 +1,21 @@
+ProductID,Name,Description,Price,Category
+1001,Widget A,"High-quality widget for various uses",10.99,Widgets
+1002,Gadget Pro,"Advanced gadget with multiple features",15.49,Gadgets
+1003,Widget B,"Economical widget option",8.99,Widgets
+1004,Toolset X,"Comprehensive toolset for DIY enthusiasts",25.99,Tools
+1005,Gadget Basic,"Basic version of our popular gadget",12.99,Gadgets
+1006,Smartphone Alpha,"Latest model of our flagship smartphone",299.99,Electronics
+1007,Laptop Pro,"High-performance laptop for professionals",1099.99,Electronics
+1008,Bluetooth Headphones,"Wireless headphones with noise cancellation",89.99,Electronics
+1009,Electric Drill,"Powerful and reliable electric drill",49.99,Tools
+1010,LED Lightbulb,"Energy-efficient LED lightbulb",5.99,Home
+1011,Running Shoes,"Comfortable and durable running shoes",59.99,Fashion
+1012,Backpack Explorer,"Spacious and rugged backpack",39.99,Fashion
+1013,Smartwatch Health,"Smartwatch with health tracking features",199.99,Electronics
+1014,Water Bottle,"Insulated water bottle",14.99,Sports
+1015,Yoga Mat,"Eco-friendly yoga mat",29.99,Sports
+1016,Bookshelf Speaker,"Compact bookshelf speaker with great sound",129.99,Electronics
+1017,Table Lamp,"Modern design table lamp",24.99,Home
+1018,Coffee Maker,"Automatic coffee maker",79.99,Kitchen
+1019,Desk Organizer,"Wooden desk organizer",18.99,Office
+1020,Wall Clock,"Stylish wall clock",34.99,Home
